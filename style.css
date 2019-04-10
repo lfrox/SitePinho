@@ -24,7 +24,9 @@
   padding: 0; }
 
 body {
-  font-family: "Roboto", sans-serif; }
+  font-family: "Roboto", sans-serif; 
+  background-color: #181818;
+}  
 
 h1,
 h2,
@@ -32,11 +34,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: #2f2f2f;
+  color: #ffffff;
   font-weight: 300; }
 
 p {
-  color: #565656;
+  color: #ffff;
   font-size: 15px;
   line-height: 2;
   font-weight: 100; }
@@ -842,7 +844,7 @@ img {
       font-weight: 300;
       margin-bottom: 0; }
     .footer-area .copywrite-text a {
-      color: #565656;
+      color: #ffffff;
       font-weight: 300;
       font-size: 15px; }
       .footer-area .copywrite-text a:hover, .footer-area .copywrite-text a:focus {
