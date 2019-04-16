@@ -1464,3 +1464,18 @@ img {
 /* The end */
 
 /*# sourceMappingURL=style.css.map */
+
+.descricao {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dess {
+  font-size: 38px;
+  font-weight: 100;
+}
