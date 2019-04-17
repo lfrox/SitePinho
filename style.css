@@ -1479,3 +1479,18 @@ img {
   font-size: 38px;
   font-weight: 100;
 }
+
+.jabba {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.joe {
+  margin-left: 20px;
+  margin-right: 20px;
+}
